@@ -29,6 +29,6 @@ sudo chmod +x ./MaxCoin-0.9.3.1_Ubuntu_64bit.sh
 ./MaxCoin-0.9.3.1_Ubuntu_64bit.sh
 ```
 
-
+If you wish to tip me some MaxCoin, My address is mKDTJmB3ZTTgWQtxRi1jScH34S45nm94Xy
 
 
