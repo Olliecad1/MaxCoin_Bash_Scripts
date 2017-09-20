@@ -10,7 +10,7 @@ Maxcoin Bash Scripts
 ### Installing the Ubuntu 64 bit Version Bash script.
 
 ```
-wget https://github.com/Olliecad1/MaxCoin_Bash_Scripts/
+git clone https://github.com/Olliecad1/MaxCoin_Bash_Scripts/
 ```
 
 ## Step 2
